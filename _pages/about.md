@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postgraduate student from School of Electrical and Electronic Engineering, [Nanyang Technological University]( https://www.ntu.edu.sg/), Singapore. I am also a remote Research Assistant of the AI Thrust at [The Hong Kong University of Science and Technology (Guangzhou)]( https://hkust-gz.edu.cn/), China. I received my B.Eng. at School of Instrument Science and Engineering, [Southeast University](https://www.seu.edu.cn/english/main.htm), China.
+I am a postgraduate student from School of Electrical and Electronic Engineering, [Nanyang Technological University]( https://www.ntu.edu.sg/). I am also a remote Research Assistant of the AI Thrust at [The Hong Kong University of Science and Technology (Guangzhou)]( https://hkust-gz.edu.cn/),  supervised by [Prof. Wang Hao](https://wanghao.tech/). I received my B.Eng. at School of Instrument Science and Engineering, [Southeast University](https://www.seu.edu.cn/english/main.htm).
+
+My primary research interests mainly focus on generative AI and graph neural networks, as well as their development and applications in computer vision and pattern recognition.
 
 A data-driven personal website
 ======
