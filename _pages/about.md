@@ -24,5 +24,5 @@ News
 
 ·[May 2022] One paper is accepted to Tool Engineering (Chinese).
 
-·[Feb 2022] One patent disclosed.
+·[Feb 2022] One patent is disclosed.
 
