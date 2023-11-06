@@ -16,8 +16,10 @@ My primary research interests mainly focus on generative AI and graph neural net
 
 News
 ======
-[Nov 2023] One paper is submitted to CVPR 2024.
-[Sep 2023] One paper is submitted to IEEE Transactions on Intelligent Transportation Systems.
-[Aug 2023] One paper is accepted to International Journal of Applied Earth Observation and Geoinformation.
+·[Nov 2023] One paper is submitted to CVPR 2024.
+
+·[Sep 2023] One paper is submitted to IEEE Transactions on Intelligent Transportation Systems.
+
+·[Aug 2023] One paper is accepted to International Journal of Applied Earth Observation and Geoinformation.
 
 
