@@ -12,6 +12,8 @@ I am a postgraduate student from School of Electrical and Electronic Engineering
 
 My primary research interests mainly focus on generative AI and graph neural networks, as well as their development and applications in computer vision and pattern recognition.
 
+
+
 News
 ======
 [Nov 2023] One paper is submitted to CVPR 2024.
