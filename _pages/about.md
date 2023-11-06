@@ -22,4 +22,7 @@ News
 
 ·[Aug 2023] One paper is accepted to International Journal of Applied Earth Observation and Geoinformation.
 
+·[May 2022] One paper is accepted to Tool Engineering (Chinese).
+
+·[Feb 2022] One patent disclosed.
 
