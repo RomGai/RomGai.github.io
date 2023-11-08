@@ -1,7 +1,7 @@
 ---
 title: "High Precision Detection Method of Plastic Gear Black Spots Defect Based on High Frequency Image Enhancement"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-04-20-paper-title-number-1
 excerpt: ''
 date: 2023-04-20
 venue: '04, 132-136'
