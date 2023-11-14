@@ -12,6 +12,8 @@ I am a postgraduate student from School of Electrical and Electronic Engineering
 
 My primary research interests lie in the generative AI and graph neural networks, as well as their development and applications in computer vision and pattern recognition.
 
+I am looking for a Ph.D. position in computer vision for 2024 fall or 2025 spring/fall.
+
 
 
 News
