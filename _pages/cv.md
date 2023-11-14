@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.ENG. in Southeast University, 2023
+* M.S. in Nanyang technological University, 2024 (expected)
+%* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 2022 - Jul. 2023: Research Assistant
+  * Sun Yat-sen University
+  * Research topics: Semantic segmentation of remote sensing images based on graph theory
+  * Supervisor: Prof. Shen Yilang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug. 2023 - Present: Research Assistant
+  * The Hong Kong University of Science and Technology (Guangzhou)
+  * Research topics: Visual stimulus image reconstruction from brain signals
+  * Supervisor: Prof. Wang Hao
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+%Skills
+%======
+%* Skill 1
+%* Skill 2
+%  * Sub-skill 2.1
+%  * Sub-skill 2.2
+%  * Sub-skill 2.3
+%* Skill 3
 
 Publications
 ======
