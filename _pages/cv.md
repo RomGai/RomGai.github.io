@@ -16,15 +16,15 @@ Education
 
 Work experience
 ======
-* Oct. 2022 - Jul. 2023: Research Assistant
-  * Sun Yat-sen University
-  * Research topics: Semantic segmentation of remote sensing images based on graph theory
-  * Supervisor: Prof. Shen Yilang
-
 * Aug. 2023 - Present: Research Assistant
   * The Hong Kong University of Science and Technology (Guangzhou)
   * Research topics: Visual stimulus image reconstruction from brain signals
   * Supervisor: Prof. Wang Hao
+
+* Oct. 2022 - Jul. 2023: Research Assistant
+  * Sun Yat-sen University
+  * Research topics: Semantic segmentation of remote sensing images based on graph theory
+  * Supervisor: Prof. Shen Yilang
   
 Publications
 ======
