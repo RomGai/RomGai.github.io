@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postgraduate student from School of Electrical and Electronic Engineering, [Nanyang Technological University]( https://www.ntu.edu.sg/). I am also a remote Research Assistant of the AI Thrust at [The Hong Kong University of Science and Technology (Guangzhou)]( https://hkust-gz.edu.cn/),  working with [Prof. Wang Hao](https://wanghao.tech/). Before that, I was a remote Research Assistant at School of Geospatial Engineering and Science, [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), working with [Prof. Shen Yilang](https://sges.sysu.edu.cn/teacher/1216). I received my B.Eng. at School of Instrument Science and Engineering, [Southeast University](https://www.seu.edu.cn/english/main.htm).
+I am a postgraduate student from School of Electrical and Electronic Engineering, [Nanyang Technological University]( https://www.ntu.edu.sg/). I am also a remote Research Assistant of the AI Thrust at [The Hong Kong University of Science and Technology (Guangzhou)]( https://hkust-gz.edu.cn/), supervised by [Prof. Wang Hao](https://wanghao.tech/). Before that, I was a remote Research Assistant at School of Geospatial Engineering and Science, [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by [Prof. Shen Yilang](https://sges.sysu.edu.cn/teacher/1216). I received my B.Eng. at School of Instrument Science and Engineering, [Southeast University](https://www.seu.edu.cn/english/main.htm).
 
 My primary research interests lie in the generative AI and graph neural networks, as well as their development and applications in computer vision and pattern recognition.
 
