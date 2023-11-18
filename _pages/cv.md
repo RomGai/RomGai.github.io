@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.ENG. in Southeast University, 2023
 * M.S. in Nanyang technological University, 2024 (expected)
+* B.Eng. in Southeast University, 2023
 
 Work experience
 ======
