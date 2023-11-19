@@ -28,5 +28,3 @@ News
 
 ·[Feb 2022] One patent is disclosed.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fantingsheng.fantingsheng&left_color=green&right_color=red)
-
