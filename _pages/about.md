@@ -14,6 +14,8 @@ My primary research interests lie in the generative AI and graph neural networks
 
 I am looking for a Ph.D. position in computer vision for 2024 fall or 2025 spring/fall.
 
+Email: hfu006@e.ntu.edu.sg
+
 
 
 News
