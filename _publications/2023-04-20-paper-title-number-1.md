@@ -6,5 +6,5 @@ excerpt: ''
 date: 2023-04-20
 venue: 'Tool Engineering(04), 132-136'
 paperurl: ''
-citation: '<b>Fu, H.</b>, Zhang, D., Jiang, L., & Chen, H. (2023). &quot;High Precision Detection Method of Plastic Gear Black Spots Defect Based on High Frequency Image Enhancement.&quot; <i>Tool Engineering(04), 132-136.'
+citation: '<b>Fu, H.</b>, Zhang, D., Jiang, L., & Chen, H. (2023). High Precision Detection Method of Plastic Gear Black Spots Defect Based on High Frequency Image Enhancement. Tool Engineering(04), 132-136.'
 ---
