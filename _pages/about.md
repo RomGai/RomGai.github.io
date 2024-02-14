@@ -16,7 +16,6 @@ I am looking for a Ph.D. position in computer vision for 2024 fall or 2025 sprin
 
 Email: hfu006@e.ntu.edu.sg
 
-
 News
 ======
 ·[Nov 2023] One paper is submitted to CVPR 2024.
@@ -28,4 +27,3 @@ News
 ·[May 2022] One paper is accepted to Tool Engineering (Chinese).
 
 ·[Feb 2022] One patent is disclosed.
-
