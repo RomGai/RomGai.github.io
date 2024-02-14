@@ -16,8 +16,6 @@ I am looking for a Ph.D. position in computer vision for 2024 fall or 2025 sprin
 
 Email: hfu006@e.ntu.edu.sg
 
-<a href="https://info.flagcounter.com/6HDy"><img src="https://s01.flagcounter.com/mini/6HDy/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
-
 
 News
 ======
