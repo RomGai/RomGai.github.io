@@ -19,8 +19,6 @@ Email: hfu006@e.ntu.edu.sg
 
 News
 ======
-·[Nov 2023] One paper is submitted to CVPR 2024.
-
 ·[Sep 2023] One paper is submitted to IEEE Transactions on Intelligent Transportation Systems.
 
 ·[Aug 2023] One paper is accepted to International Journal of Applied Earth Observation and Geoinformation.
