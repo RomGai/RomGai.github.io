@@ -22,7 +22,6 @@ Publications
 
 Preprints
 ------
-
 **Fu, H.***, Wang, Y.*, Yang, W., & Wen, B. (2024). DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild. arXiv preprint arXiv:2405.19996. \[[Link](https://arxiv.org/pdf/2405.19996)\] \[[Code](https://github.com/RomGai/DP-IQA)\]
 
 **Fu, H.**, Shen, Z., Chin, J. J., & Wang, H. (2023). BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction. arXiv preprint arXiv:2312.14871. \[[Link](https://arxiv.org/pdf/2312.14871)\] \[[Code](https://github.com/RomGai/BrainVis)\]
