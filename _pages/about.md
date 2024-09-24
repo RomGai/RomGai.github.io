@@ -31,8 +31,8 @@ Preprints
 ------
 **Fu, H.**, Shen, Y., Liu, Y., Li, J., & Zhang, X. (2023). SGCN: A multi-order neighborhood feature fusion landform classification method based on superpixel and graph convolutional network. International Journal of Applied Earth Observation and Geoinformation, 122, 103441. (IF=7.672) [Link](https://www.sciencedirect.com/science/article/pii/S1569843223002650)
 
-**Fu, H.**, Zhang, D., Jiang, L. & Chen, H. (2023). “High Precision Detection Method of Plastic Gear Black Spots Defect Based on High Frequency Image Enhancement,” Tool Engineering, 57(04):132-136. (Chinese core) [Link](https://kns.cnki.net/kcms2/article/abstract?v=7gnxONS3vkmr0PO2FivcI-v8oH6JXWF13Z82VSRKjT0BHlPeLE4mmqHH8YBLszctPWufwyPwmhybhw8mglgIzoDYXlPSQ52yM8EHHRGmkf8lIZjDJMdfSOZGtigau6vluEHs_zwzhB2b4QnBTMrnJ_QNWqRe9Ujp-BvKcD4wa_U=&uniplatform=NZKPT)
+**Fu, H.**, Zhang, D., Jiang, L. & Chen, H. (2023). High Precision Detection Method of Plastic Gear Black Spots Defect Based on High Frequency Image Enhancement. Tool Engineering, 57(04):132-136. (Chinese core) [Link](https://kns.cnki.net/kcms2/article/abstract?v=7gnxONS3vkmr0PO2FivcI-v8oH6JXWF13Z82VSRKjT0BHlPeLE4mmqHH8YBLszctPWufwyPwmhybhw8mglgIzoDYXlPSQ52yM8EHHRGmkf8lIZjDJMdfSOZGtigau6vluEHs_zwzhB2b4QnBTMrnJ_QNWqRe9Ujp-BvKcD4wa_U=&uniplatform=NZKPT)
 
 Patent
 ======
-Wu, J., Ye, X., **Fu, H.** ... & Sun, S. (2022). "A Hidden Cable Positioning Detection and AR Visualization System," Patent No. CN114089271A, 2022. [Link]
+Wu, J., Ye, X., **Fu, H.** ... & Sun, S. (2022). A Hidden Cable Positioning Detection and AR Visualization System. Patent No. CN114089271A, 2022. [Link]
