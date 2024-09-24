@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.Sc. student from School of Electrical and Electronic Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/), supervised by [Prof. Bihan Wen](https://personal.ntu.edu.sg/bihan.wen/) and working closely with [Yufei Wang](https://wyf0912.github.io/). I am also a remote Research Assistant of the AI Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), supervised by [Prof. Wang Hao](https://wanghao.tech/). Before that, I received my B.Eng. at School of Instrument Science and Engineering, [Southeast University](https://www.seu.edu.cn/english/main.htm).
+I am a postgraduate student from School of Electrical and Electronic Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/), supervised by [Prof. Bihan Wen](https://personal.ntu.edu.sg/bihan.wen/) and working closely with [Yufei Wang](https://wyf0912.github.io/). I am also a remote Research Assistant of the AI Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), supervised by [Prof. Wang Hao](https://wanghao.tech/). Before that, I received my B.Eng. at School of Instrument Science and Engineering, [Southeast University](https://www.seu.edu.cn/english/main.htm).
 
 My primary research interests lie in generative AI,such as diffusion models, GANs, LLM/LVM-based agents, as well as their development and applications in various vision and language tasks.
 
@@ -19,8 +19,10 @@ Email: hfu006@e.ntu.edu.sg
 
 Publications
 ======
+
 Preprints
 ------
+
 **Fu, H.***, Wang, Y.*, Yang, W., & Wen, B. (2024). DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild. arXiv preprint arXiv:2405.19996. [Link](https://arxiv.org/pdf/2405.19996) [Code](https://github.com/RomGai/DP-IQA)
 
 **Fu, H.**, Shen, Z., Chin, J. J., & Wang, H. (2023). BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction. arXiv preprint arXiv:2312.14871. [Link](https://arxiv.org/pdf/2312.14871) [Code](https://github.com/RomGai/BrainVis)
