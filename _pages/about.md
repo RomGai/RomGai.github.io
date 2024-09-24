@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postgraduate student from School of Electrical and Electronic Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/), supervised by [Prof. Bihan Wen](https://personal.ntu.edu.sg/bihan.wen/) and working closely with [Yufei Wang](https://wyf0912.github.io/). I am also a remote Research Assistant of the AI Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), supervised by [Prof. Wang Hao](https://wanghao.tech/). Before that, I received my B.Eng. at School of Instrument Science and Engineering, [Southeast University](https://www.seu.edu.cn/english/main.htm).
 
-My primary research interests lie in generative AI,such as diffusion models, GANs, LLM/LVM-based agents, as well as their development and applications in various vision and language tasks.
+My primary research interests lie in generative AI, such as diffusion models, GANs, LLM/LVM-based agents, as well as their development and applications in various vision and language tasks.
 
 I am looking for a Ph.D. position in computer vision for Fall 2025 or Spring 2026.
 
