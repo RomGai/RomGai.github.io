@@ -20,19 +20,17 @@ Email: hfu006@e.ntu.edu.sg
 Publications
 ======
 
-Preprints
+2024
 ------
 **Fu, H.***, Wang, Y.\*, Yang, W., & Wen, B. (2024). DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild. arXiv preprint arXiv:2405.19996. \[[Link](https://arxiv.org/pdf/2405.19996)\] \[[Code](https://github.com/RomGai/DP-IQA)\]
 
-**Fu, H.**, Sun, L., Shen, Y., & Wu, Y. (2023). SDR-GAIN: A High Real-Time Occluded Pedestrian Pose Completion Method for Autonomous Driving. arXiv preprint arXiv:2306.03538. \[[Link](https://arxiv.org/pdf/2306.03538)\]
-
-2024
-------
 **Fu, H.**, Shen, Z., Chin, J. J., & Wang, H. BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction. ICASSP 2025 - International Conference on Acoustics, Speech, and Signal Processing (ICASSP). \[[Link](https://arxiv.org/pdf/2312.14871)\] \[[Code](https://github.com/RomGai/BrainVis)\]
 
 2023
 ------
 **Fu, H.**, Shen, Y., Liu, Y., Li, J., & Zhang, X. SGCN: A multi-order neighborhood feature fusion landform classification method based on superpixel and graph convolutional network. International Journal of Applied Earth Observation and Geoinformation, 122, 103441. (IF=7.672) \[[Link](https://www.sciencedirect.com/science/article/pii/S1569843223002650)\]
+
+**Fu, H.**, Sun, L., Shen, Y., & Wu, Y. (2023). SDR-GAIN: A High Real-Time Occluded Pedestrian Pose Completion Method for Autonomous Driving. arXiv preprint arXiv:2306.03538. \[[Link](https://arxiv.org/pdf/2306.03538)\]
 
 **Fu, H.**, Zhang, D., Jiang, L. & Chen, H. High Precision Detection Method of Plastic Gear Black Spots Defect Based on High Frequency Image Enhancement. Tool Engineering, 57(04):132-136. (Chinese core) \[[Link](https://kns.cnki.net/kcms2/article/abstract?v=7gnxONS3vkmr0PO2FivcI-v8oH6JXWF13Z82VSRKjT0BHlPeLE4mmqHH8YBLszctPWufwyPwmhybhw8mglgIzoDYXlPSQ52yM8EHHRGmkf8lIZjDJMdfSOZGtigau6vluEHs_zwzhB2b4QnBTMrnJ_QNWqRe9Ujp-BvKcD4wa_U=&uniplatform=NZKPT)\]
 
