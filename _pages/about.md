@@ -22,7 +22,7 @@ Publications
 
 Preprints
 ------
-**Fu, H.***, Wang, Y./*, Yang, W., & Wen, B. (2024). DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild. arXiv preprint arXiv:2405.19996. \[[Link](https://arxiv.org/pdf/2405.19996)\] \[[Code](https://github.com/RomGai/DP-IQA)\]
+**Fu, H.***, Wang, Y.\*, Yang, W., & Wen, B. (2024). DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild. arXiv preprint arXiv:2405.19996. \[[Link](https://arxiv.org/pdf/2405.19996)\] \[[Code](https://github.com/RomGai/DP-IQA)\]
 
 **Fu, H.**, Sun, L., Shen, Y., & Wu, Y. (2023). SDR-GAIN: A High Real-Time Occluded Pedestrian Pose Completion Method for Autonomous Driving. arXiv preprint arXiv:2306.03538. \[[Link](https://arxiv.org/pdf/2306.03538)\]
 
