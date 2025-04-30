@@ -18,6 +18,10 @@ Email: hfu006@e.ntu.edu.sg
 Publications
 ======
 
+2025
+------
+**Fu, H.**, Ye, D., Cai, Y., & Wang, H. VistaWise: Building Cost-Effective Agent with Cross-Modal Graph for Minecraft. Under review.
+
 2024
 ------
 **Fu, H.***, Wang, Y.\*, Yang, W., & Wen, B. DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild. arXiv preprint arXiv:2405.19996. \[[Link](https://arxiv.org/pdf/2405.19996)\] \[[Code](https://github.com/RomGai/DP-IQA)\]
