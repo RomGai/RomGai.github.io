@@ -20,7 +20,7 @@ Publications
 
 2025
 ------
-Liu, S., Han, Y., Xing, P., Yin, F., Wang, R., Cheng, W., Liao., J, Wang, Y., **Fu, H.**, ... , Zeng, X., Zhu, Y., Jiao, B., Zhang, X., Yu, G.& Jiang, D. Step1X-Edit: A Practical Framework for General Image Editing. arXiv:2504.17761. \[[Link](https://arxiv.org/pdf/2504.17761)\] \[[Code](https://github.com/stepfun-ai/Step1X-Edit)\]
+Liu, S., Han, Y., Xing, P., Yin, F., Wang, R., Cheng, W., Liao., J, Wang, Y., **Fu, H.**, ... , Zeng, X., Zhu, Y., Jiao, B., Zhang, X., Yu, G. & Jiang, D. Step1X-Edit: A Practical Framework for General Image Editing. arXiv:2504.17761. \[[Link](https://arxiv.org/pdf/2504.17761)\] \[[Code](https://github.com/stepfun-ai/Step1X-Edit)\]
 
 2024
 ------
