@@ -22,8 +22,6 @@ Publications
 ------
 Liu, S., Han, Y., Xing, P., Yin, F., Wang, R., Cheng, W., Liao., J, Wang, Y., **Fu, H.**, ... , Zeng, X., Zhu, Y., Jiao, B., Zhang, X., Yu, G., Jiang, D. Step1X-Edit: A Practical Framework for General Image Editing. arXiv:2504.17761. \[[Link](https://arxiv.org/pdf/2504.17761)\] \[[Code](https://github.com/stepfun-ai/Step1X-Edit)\]
 
-**Fu, H.**, Ren, J., Chai, Q., Ye, D., Cai, Y., & Wang, H. VistaWise: Building Cost-Effective Agent with Cross-Modal Graph for Minecraft. Under review.
-
 2024
 ------
 **Fu, H.***, Wang, Y.\*, Yang, W., & Wen, B. DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild. arXiv preprint arXiv:2405.19996. \[[Link](https://arxiv.org/pdf/2405.19996)\] \[[Code](https://github.com/RomGai/DP-IQA)\]
