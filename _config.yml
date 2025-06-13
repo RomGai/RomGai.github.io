@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Fu Honghao"
   avatar           : "Photograph-Honghao Fu-3.png"
-  bio              : "M.Sc., Nanyang Technological University (NTU)"
+  bio              : "M.Sc., Nanyang Technological University (NTU)" honghao.fu@uq.edu.au
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=XE32Z7sAAAAJ&hl=en"
-  email            : "hfu006@e.ntu.edu.sg"
+  email            : "honghao.fu@uq.edu.au<br>hfu006@e.ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
