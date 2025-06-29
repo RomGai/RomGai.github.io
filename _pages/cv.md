@@ -11,12 +11,13 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Nanyang Technological University, 2025
-* B.Eng. in Southeast University, 2023
+* Ph.D. in University of Queensland, 2025-Now
+* M.Sc. in Nanyang Technological University, 2023-2025
+* B.Eng. in Southeast University, 2019-2023
 
 Work experience
 ======
-* Mar. 2025 - Now: Research Intern
+* Mar. 2025 - Jun. 2025: Research Intern
   * StepFun
   * Research topics: AIGC.
 
