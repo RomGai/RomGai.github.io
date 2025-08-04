@@ -28,7 +28,11 @@ Work experience
 * Oct. 2022 - Jul. 2023: Research Assistant
   * Sun Yat-sen University
   * Research topics: Semantic segmentation of remote sensing images, the application of graph neural networks in computer vision.
-  
+
+Services
+======
+Reviewer of ACM-MM, ICASSP, IJCNN, IEEE Transactions on Intelligent Transportation Systems (T-ITS) and Journal of Selected Topics in Signal Processing (JSTSP).
+
 Publications
 ======
   <ul>{% for post in site.publications %}
