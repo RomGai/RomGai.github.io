@@ -18,6 +18,8 @@ Publications
 
 2025
 ------
+Ren J., Zhang G., **Fu H.**, Wu P., Wang H.. WaMo: Wavelet-Enhanced Multi-Frequency Trajectory Analysis for Fine-Grained Text-Motion Retrieval.	arXiv:2508.03343. \[[Link](https://arxiv.org/pdf/2508.03343)\]
+
 Gu Y., Yan X., Qin H., Akhtar N., Yuan S., **Fu H.**, Yang S. & Mian A. HDTCNet: A hybrid-dimensional convolutional network for multivariate time series classification. Pattern Recognition, 168, 111837. (IF=7.5) \[[Link](https://www.sciencedirect.com/science/article/pii/S0031320325004972)\]
 
 Liu, S., Han, Y., Xing, P., Yin, F., Wang, R., Cheng, W., Liao., J, Wang, Y., **Fu, H.**, ... , Zeng, X., Zhu, Y., Jiao, B., Zhang, X., Yu, G. & Jiang, D. Step1X-Edit: A Practical Framework for General Image Editing. arXiv:2504.17761. \[[Link](https://arxiv.org/pdf/2504.17761)\] \[[Code](https://github.com/stepfun-ai/Step1X-Edit)\]
