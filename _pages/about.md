@@ -26,11 +26,11 @@ Gu Y., Yan X., Qin H., Akhtar N., Yuan S., **Fu H.**, Yang S. & Mian A. HDTCNet:
 
 Liu, S., Han, Y., Xing, P., Yin, F., Wang, R., Cheng, W., Liao., J, Wang, Y., **Fu, H.**, ... , Zeng, X., Zhu, Y., Jiao, B., Zhang, X., Yu, G. & Jiang, D. Step1X-Edit: A Practical Framework for General Image Editing. arXiv:2504.17761. \[[Link](https://arxiv.org/pdf/2504.17761)\] \[[Code](https://github.com/stepfun-ai/Step1X-Edit)\]
 
+**Fu, H.**, Shen, Z., Chin, J. J., & Wang, H. BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction. ICASSP 2025 - International Conference on Acoustics, Speech, and Signal Processing (ICASSP). \[[Link](https://arxiv.org/pdf/2312.14871)\] \[[Code](https://github.com/RomGai/BrainVis)\]
+
 2024
 ------
 **Fu, H.***, Wang, Y.\*, Yang, W., & Wen, B. DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild. arXiv preprint arXiv:2405.19996. \[[Link](https://arxiv.org/pdf/2405.19996)\] \[[Code](https://github.com/RomGai/DP-IQA)\]
-
-**Fu, H.**, Shen, Z., Chin, J. J., & Wang, H. BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction. ICASSP 2025 - International Conference on Acoustics, Speech, and Signal Processing (ICASSP). \[[Link](https://arxiv.org/pdf/2312.14871)\] \[[Code](https://github.com/RomGai/BrainVis)\]
 
 2023
 ------
