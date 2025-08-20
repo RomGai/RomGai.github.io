@@ -18,7 +18,9 @@ Publications
 
 2025
 ------
-Ren J., Zhang G., **Fu H.**, Wu P., Wang H.. WaMo: Wavelet-Enhanced Multi-Frequency Trajectory Analysis for Fine-Grained Text-Motion Retrieval.	arXiv:2508.03343. \[[Link](https://arxiv.org/pdf/2508.03343)\]
+**Fu H.**, Ren J., Chai Q., Ye D., Cai Y., Wang H. VistaWise: Building Cost-Effective Agent with Cross-Modal Knowledge Graph for Minecraft. EMNLP 2025.
+
+Ren J., Zhang G., **Fu H.**, Wu P., Wang H. WaMo: Wavelet-Enhanced Multi-Frequency Trajectory Analysis for Fine-Grained Text-Motion Retrieval.	arXiv:2508.03343. \[[Link](https://arxiv.org/pdf/2508.03343)\]
 
 Gu Y., Yan X., Qin H., Akhtar N., Yuan S., **Fu H.**, Yang S. & Mian A. HDTCNet: A hybrid-dimensional convolutional network for multivariate time series classification. Pattern Recognition, 168, 111837. (IF=7.5) \[[Link](https://www.sciencedirect.com/science/article/pii/S0031320325004972)\]
 
