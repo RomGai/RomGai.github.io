@@ -18,6 +18,8 @@ Publications
 
 2025
 ------
+**Fu H.**, Ouyang Y., Chang K., Wang Y., Huang Z., Cai Y. ContextNav: Towards Agentic Multimodal In-Context Learning. arXiv:2510.04560. \[[Link](https://arxiv.org/pdf/2510.04560v1)\]
+
 **Fu H.**, Ren J., Chai Q., Ye D., Cai Y., Wang H. VistaWise: Building Cost-Effective Agent with Cross-Modal Knowledge Graph for Minecraft. EMNLP 2025 Main. \[[Link](https://arxiv.org/pdf/2508.18722)\]
 
 Ren J., Zhang G., **Fu H.**, Wu P., Wang H. WaMo: Wavelet-Enhanced Multi-Frequency Trajectory Analysis for Fine-Grained Text-Motion Retrieval.	arXiv:2508.03343. \[[Link](https://arxiv.org/pdf/2508.03343)\]
