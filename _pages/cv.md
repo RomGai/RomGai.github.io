@@ -31,7 +31,7 @@ Work experience
 
 Services
 ======
-Reviewer of ACM-MM, ICASSP, IJCNN, IEEE Transactions on Intelligent Transportation Systems (T-ITS) and Journal of Selected Topics in Signal Processing (JSTSP).
+Reviewer of ACM-MM, ICASSP, IJCNN, IEEE Transactions on Intelligent Transportation Systems (T-ITS), Journal of Selected Topics in Signal Processing (JSTSP), Pattern Recognition (PR) and Neurocomputing.
 
 Publications
 ======
