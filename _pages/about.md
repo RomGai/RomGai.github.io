@@ -38,7 +38,7 @@ Liu, S., Han, Y., Xing, P., Yin, F., Wang, R., Cheng, W., Liao., J, Wang, Y., **
 ------
 **Fu, H.**, Shen, Y., Liu, Y., Li, J., & Zhang, X. SGCN: A multi-order neighborhood feature fusion landform classification method based on superpixel and graph convolutional network. International Journal of Applied Earth Observation and Geoinformation, 122, 103441. (IF=7.672) \[[Link](https://www.sciencedirect.com/science/article/pii/S1569843223002650)\]
 
-**Fu, H.**, Sun, L., Shen, Y., & Wu, Y. SDR-GAIN: A High Real-Time Occluded Pedestrian Pose Completion Method for Autonomous Driving. arXiv preprint arXiv:2306.03538. \[[Link](https://arxiv.org/pdf/2306.03538)\]
+**Fu, H.**, Gu, Y., Yan, Y., Shen, Y., Wu, Y., & Sun, L. SDR-GAIN: A High Real-Time Occluded Pedestrian Pose Completion Method for Autonomous Driving. IEEE Transactions on Intelligent Transportation Systems. (IF=8.4) \[[Link](https://ieeexplore.ieee.org/document/11278550)\]
 
 **Fu, H.**, Zhang, D., Jiang, L. & Chen, H. High Precision Detection Method of Plastic Gear Black Spots Defect Based on High Frequency Image Enhancement. Tool Engineering, 57(04):132-136. (Chinese core) \[[Link](https://kns.cnki.net/kcms2/article/abstract?v=7gnxONS3vkmr0PO2FivcI-v8oH6JXWF13Z82VSRKjT0BHlPeLE4mmqHH8YBLszctPWufwyPwmhybhw8mglgIzoDYXlPSQ52yM8EHHRGmkf8lIZjDJMdfSOZGtigau6vluEHs_zwzhB2b4QnBTMrnJ_QNWqRe9Ujp-BvKcD4wa_U=&uniplatform=NZKPT)\]
 
