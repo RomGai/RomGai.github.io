@@ -15,11 +15,12 @@ My primary research interests lie in generative AI and vision-language understan
 
 Publications
 ======
-
-2025
+2026
 ------
 **Fu H.**, Ouyang Y., Chang K., Wang Y., Huang Z., Cai Y. ContextNav: Towards Agentic Multimodal In-Context Learning. ICLR 2026. \[[Link](https://arxiv.org/pdf/2510.04560v1)\]
 
+2025
+------
 **Fu H.**, Ren J., Chai Q., Ye D., Cai Y., Wang H. VistaWise: Building Cost-Effective Agent with Cross-Modal Knowledge Graph for Minecraft. EMNLP 2025 Main. \[[Link](https://arxiv.org/pdf/2508.18722)\]
 
 Ren J., Zhang G., **Fu H.**, Wu P., Wang H. WaMo: Wavelet-Enhanced Multi-Frequency Trajectory Analysis for Fine-Grained Text-Motion Retrieval.	arXiv:2508.03343. \[[Link](https://arxiv.org/pdf/2508.03343)\]
