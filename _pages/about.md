@@ -18,13 +18,15 @@ Publications
 
 2026
 ------
-**Fu H.**, Ouyang Y., Chang K., Wang Y., Huang Z., Cai Y. ContextNav: Towards Agentic Multimodal In-Context Learning. ICLR 2026. \[[Link](https://arxiv.org/pdf/2510.04560v1)\]
+Yang Y., Cheng W., Chen S., **Fu H.**, Zeng X., Cai Y., Yu G. & Ma X. OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens. CVPR 2026. \[[Link](https://arxiv.org/pdf/2510.04560v1)\]
+
+**Fu H.**, Ouyang Y., Chang K., Wang Y., Huang Z. & Cai Y. ContextNav: Towards Agentic Multimodal In-Context Learning. ICLR 2026. \[[Link](https://arxiv.org/pdf/2510.04560v1)\]
 
 2025
 ------
-**Fu H.**, Ren J., Chai Q., Ye D., Cai Y., Wang H. VistaWise: Building Cost-Effective Agent with Cross-Modal Knowledge Graph for Minecraft. EMNLP 2025 Main. \[[Link](https://arxiv.org/pdf/2508.18722)\]
+**Fu H.**, Ren J., Chai Q., Ye D., Cai Y. & Wang H. VistaWise: Building Cost-Effective Agent with Cross-Modal Knowledge Graph for Minecraft. EMNLP 2025 Main. \[[Link](https://arxiv.org/pdf/2508.18722)\]
 
-Ren J., Zhang G., **Fu H.**, Wu P., Wang H. WaMo: Wavelet-Enhanced Multi-Frequency Trajectory Analysis for Fine-Grained Text-Motion Retrieval.	arXiv:2508.03343. \[[Link](https://arxiv.org/pdf/2508.03343)\]
+Ren J., Zhang G., **Fu H.**, Wu P. & Wang H. WaMo: Wavelet-Enhanced Multi-Frequency Trajectory Analysis for Fine-Grained Text-Motion Retrieval.	arXiv:2508.03343. \[[Link](https://arxiv.org/pdf/2508.03343)\]
 
 Gu Y., Yan X., Qin H., Akhtar N., Yuan S., **Fu H.**, Yang S. & Mian A. HDTCNet: A hybrid-dimensional convolutional network for multivariate time series classification. Pattern Recognition, 168, 111837. (IF=7.5) \[[Link](https://www.sciencedirect.com/science/article/pii/S0031320325004972)\]
 
