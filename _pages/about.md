@@ -18,7 +18,7 @@ Publications
 
 2026
 ------
-Yang Y., Cheng W., Chen S., **Fu H.**, Zeng X., Cai Y., Yu G. & Ma X. OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens. CVPR 2026. \[[Link](https://arxiv.org/pdf/2510.04560v1)\]
+Yang Y., Cheng W., Chen S., **Fu H.**, Zeng X., Cai Y., Yu G. & Ma X. OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens. CVPR 2026. \[[Link](https://arxiv.org/pdf/2510.04560v1)\] \[[Code](https://github.com/OpenVGLab/OmniLottie)\]
 
 **Fu H.**, Ouyang Y., Chang K., Wang Y., Huang Z. & Cai Y. ContextNav: Towards Agentic Multimodal In-Context Learning. ICLR 2026. \[[Link](https://arxiv.org/pdf/2510.04560v1)\]
 
