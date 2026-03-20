@@ -31,7 +31,9 @@ Work experience
 
 Services
 ======
-Reviewer of ICLR, CVPR, ACL, ACM-MM, ICASSP, IJCNN, IEEE Transactions on Intelligent Transportation Systems (T-ITS), Journal of Selected Topics in Signal Processing (JSTSP), Pattern Recognition (PR) and Neurocomputing.
+Conference Reviewer: ICLR, CVPR, ICML, ACL, ACM-MM, ICASSP, IJCNN, etc.
+
+Journal Reviewer: IEEE Transactions on Intelligent Transportation Systems (T-ITS), IEEE Internet of Things Journal (IoT), Journal of Selected Topics in Signal Processing (JSTSP), Pattern Recognition (PR), Neurocomputing.
 
 Publications
 ======
