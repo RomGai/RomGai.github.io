@@ -18,6 +18,8 @@ Publications
 
 2026
 ------
+**Fu H.**, Xu M., Wang Y., Zhang D., Liu J. & Cai Y. VideoStir: Understanding Long Videos via Spatio-Temporally Structured and Intent-Aware RAG. ACL 2026 Main. \[[Link](https://arxiv.org/abs/2604.05418)\] \[[Code](https://github.com/RomGai/VideoStir)\]
+
 Yang Y., Cheng W., Chen S., **Fu H.**, Zeng X., Cai Y., Yu G. & Ma X. OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens. CVPR 2026. \[[Link](https://arxiv.org/pdf/2603.02138)\] \[[Code](https://github.com/OpenVGLab/OmniLottie)\]
 
 **Fu H.**, Ouyang Y., Chang K., Wang Y., Huang Z. & Cai Y. ContextNav: Towards Agentic Multimodal In-Context Learning. ICLR 2026. \[[Link](https://arxiv.org/pdf/2510.04560v1)\]
