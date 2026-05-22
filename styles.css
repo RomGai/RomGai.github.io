@@ -362,6 +362,12 @@ h1 {
   color: #9a3412;
 }
 
+.tag-purple {
+  background: #fdf2f8;
+  border-color: #fbcfe8;
+  color: #a21caf;
+}
+
 .links {
   margin-top: 0.7rem;
   display: flex;
