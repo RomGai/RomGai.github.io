@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Publication figure placeholder</title>
+  <desc id="desc">A simple abstract publication figure placeholder.</desc>
+  <rect width="720" height="420" fill="#f8fafc"/>
+  <rect x="36" y="36" width="648" height="348" rx="14" fill="#ffffff" stroke="#dbe4ed" stroke-width="2"/>
+  <rect x="78" y="76" width="210" height="126" rx="10" fill="#e2e8f0"/>
+  <rect x="326" y="76" width="316" height="24" rx="12" fill="#cbd5e1"/>
+  <rect x="326" y="122" width="260" height="18" rx="9" fill="#e2e8f0"/>
+  <rect x="326" y="158" width="292" height="18" rx="9" fill="#e2e8f0"/>
+  <circle cx="142" cy="280" r="34" fill="#475569"/>
+  <circle cx="250" cy="280" r="34" fill="#64748b"/>
+  <circle cx="358" cy="280" r="34" fill="#94a3b8"/>
+  <path d="M176 280h40M284 280h40" stroke="#94a3b8" stroke-width="10" stroke-linecap="round"/>
+  <rect x="442" y="244" width="160" height="22" rx="11" fill="#cbd5e1"/>
+  <rect x="442" y="294" width="124" height="18" rx="9" fill="#e2e8f0"/>
+</svg>
